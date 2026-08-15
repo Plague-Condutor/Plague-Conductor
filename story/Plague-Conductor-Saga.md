@@ -58,6 +58,12 @@
 - **Source:** YouTube — ["Plague Doctor"](https://www.youtube.com/watch?v=f7YSJVUR-rQ), published 2024-12-04, length **2:50**.
 - **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
 
+### 🩸 Ch. 2 — "Back Where We Belong" — *RECONCILIATION & HEALING*
+- **Theme / Story:** The emotional turning point of reconciliation, growth, and healing — finding the way back after years of separation and personal transformation.
+- **Narrative Context:** Mirroring the real-life journey: after 4 years apart (2 years complete silence, 2 years rebuild) and positive personal growth, both souls reconcile. Moving out of the dark shadow of betrayal ("Double Truths") and inner demons into mutual forgiveness, maturity, and genuine love.
+- **Audio Master:** ✅ Track fetched from repo — `video/audio/BackWhereWeBelong.mp3` (Length: **2:59**, 192kbps stereo MP3).
+- **Lyrics:** Awaiting artist's lyrics.
+
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
 - **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
