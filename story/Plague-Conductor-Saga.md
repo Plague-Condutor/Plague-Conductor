@@ -11,7 +11,9 @@
 ## 1. The Universe
 - **Scale:** graphic-novel-length backstory — a **song for every major event** in the story.
 - **Status:** "The Plague Conductor is very much alive" — an ongoing, expanding project.
-- **Genre / DNA:** **METAL.** Exodus / **Gary Holt** — **galloping guitars**, **mostly clear (articulated) vocals** (not guttural/incomprehensible).
+- **Genre / DNA:** **PURE HEAVY METAL.** 
+  - **Exodus / Gary Holt** — galloping guitars, articulated aggressive vocals.
+  - **Judas Priest** — screaming *Painkiller/Screaming for Vengeance* anthem energy ("Hell's Justice" sounds like a lost Priest masterpiece).
 - **Visual energy:** **Slayer** — *not* Metallica. **Larry Carroll cover-art nightmare** (*Reign in Blood* / *South of Heaven*): dense apocalyptic hellscape, contorted bodies, medieval-hell-meets-punk chaos, heavy blacks, brutal contrast, grotesque and overwhelming.
 
 ---
@@ -20,6 +22,7 @@
 
 ### 🩸 Ch. 0.5 — "Hell's Justice" — *THE AWAKENING (1980 RIOT)*
 - **Theme / Story:** Depicts the brutal, fiery events of the **February 1980 New Mexico State Penitentiary Riot**. Blowtorches cutting cell doors, inmate anarchy, flames, and brutal retribution on the guilty locked inside ("justice served in anarchy").
+- **Musical DNA:** **Pure Judas Priest energy** — sounds like a lost classic Priest track (*Painkiller* / *Screaming for Vengeance* era speed & vocal delivery).
 - **Character Arc:** The turning point where our future Plague Doctor (working as a CO at NM State Pen) witnesses the retribution and realizes deep down that **he has zero problem with that kind of violent justice** being dealt to predators.
 - **Source:** YouTube — ["Hell's Justice @PlagueDrGeneral"](https://www.youtube.com/watch?v=NeO1vToiwu8), published 2025-07-22, length **3:05**. Video built with Veo 3 (8-second clips in prison setting).
 - **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
