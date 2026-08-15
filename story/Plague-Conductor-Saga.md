@@ -18,7 +18,10 @@
 
 ## 2. Story Timeline (in progress)
 
-### 🩸 Ch. 0 — "Double Truths" — *THE BEGINNING*
+### 🩸 Ch. 0.5 — [1980 NM Penitentiary Riot Song] — *THE AWAKENING*
+- **Theme / Events:** Depicts the brutal events of the infamous **February 1980 New Mexico State Penitentiary Riot**.
+- **Character Arc:** The turning point where our future Plague Doctor (working as a CO) realizes deep down that **he has zero problem with that kind of brutal retribution** being dealt to predators and scum. The realization that some beasts don't deserve mercy.
+- **Status:** Song written by artist — awaiting title & lyrics for full logging.
 - **The saga starts here:** a **man and a woman fall out.**
 - **Theme:** betrayal and **double meanings** — the woman as a calculating deceiver who speaks in **double entendres**; *"innocent facade but a heart full of crimes,"* *"love's a game of chess she plays in the dark."*
 - **Source:** YouTube — "Double Truths - Plague Dr General," channel **Plague Conductor** (`@PlagueDrGeneral`), published 2025-07-22, length **2:59**.
