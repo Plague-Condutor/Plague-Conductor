@@ -46,10 +46,11 @@
 - **Source:** YouTube — ["Monster Under The Ground"](https://www.youtube.com/watch?v=BhPMo_p56e4), published 2025-07-03, length **3:42**.
 - **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
 
-### 🩸 Ch. ? — "It's Always There" — *THE PERSISTENT HAUNTING / THREAT*
-- **Theme / Story:** Title: **"It's Always There"**.
-- **Character Arc:** Depicts the constant looming threat, shadow, or memory that follows the Doctor — the lingering darkness that never truly disappears.
-- **Status:** Artist uploading to Suno / pending lyrics & link.
+### 🩸 Ch. 0.85 — "It's Always There" — *THE INNER SABOTEUR*
+- **Theme / Story:** The mental demon and inner saboteur that never leaves — always whispering in your ear that *"you'll never do anything right."*
+- **Character Arc:** The psychological battle with self-doubt, failure, and mental sabotage before total breaking point/clarity. The lingering voice that haunts the Doctor even as he tries to fix his life.
+- **Source:** Artist upload in progress (Suno).
+- **Lyrics:** Awaiting artist's lyrics.
 
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
