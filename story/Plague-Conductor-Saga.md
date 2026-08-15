@@ -301,6 +301,7 @@ Hidden truths like whispers in the night. Caught in a web trying to see the ligh
 
 ### ❄️ "The Alaskan Avenger"
 - **Status:** Standalone track — **NOT part of the Plague Doctor / Conductor story**, but explores a vigilante figure with the **same core thought pattern and vigilante mind** as the artist.
+- **True Story Basis:** Based on the real-life story of **Jason Vukovich** ("The Alaskan Avenger"), a real man who tracked down registered sex offenders in Alaska to deliver vigilante justice and protect victims.
 - **Audio Master:** ✅ Track fetched from repo — `video/audio/TheAlaskanAvenger.mp3` (Length: **4:00**, 192kbps stereo MP3).
 - **Theme:** Cold Alaskan wilderness justice, relentless retribution, protecting the innocent in the frozen frontier.
 
