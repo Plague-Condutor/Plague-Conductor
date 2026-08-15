@@ -297,7 +297,16 @@ Hidden truths like whispers in the night. Caught in a web trying to see the ligh
 
 ---
 
-## 5. Production Log
+## 6. Related Works & Parallel Projects (Non-Saga)
+
+### ❄️ "The Alaskan Avenger"
+- **Status:** Standalone track — **NOT part of the Plague Doctor / Conductor story**, but explores a vigilante figure with the **same core thought pattern and vigilante mind** as the artist.
+- **Audio Master:** ✅ Track fetched from repo — `video/audio/TheAlaskanAvenger.mp3` (Length: **4:00**, 192kbps stereo MP3).
+- **Theme:** Cold Alaskan wilderness justice, relentless retribution, protecting the innocent in the frozen frontier.
+
+---
+
+## 7. Production Log
 - **Plague Conductor — 1080p video v1** (generic thematic montage, beat-synced): ✅ done & on GitHub (`video/PlagueConductor_1080.mp4`).
 - **Plague Conductor — lyric-driven re-cut (Slayer-mode):** 🚧 in progress (Shot 0 style test generated; awaiting approval + remaining sections).
 - **Build pipeline:** `video/build.py` (beat-synced montage → 1080p mp4). Reusable for any track.
