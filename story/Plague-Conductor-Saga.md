@@ -20,17 +20,19 @@
 
 ## 2. Story Timeline (in progress)
 
-### 🩸 Ch. 0.5 — "Hell's Justice" — *THE AWAKENING (1980 RIOT)*
-- **Theme / Story:** Depicts the brutal, fiery events of the **February 1980 New Mexico State Penitentiary Riot**. Blowtorches cutting cell doors, inmate anarchy, blazing fires, cellblock rioting, and brutal retribution on the guilty locked inside ("justice served in anarchy").
-- **Visuals:** Veo 3 prison setting — chaotic prison riot scenes, raging fires, dense smoke, cellblock warfare, and fiery retribution.
-- **Musical DNA:** **Pure Judas Priest energy** — sounds like a lost classic Priest track (*Painkiller* / *Screaming for Vengeance* era speed & vocal delivery).
-- **Character Arc:** The turning point where our future Plague Doctor (working as a CO at NM State Pen) witnesses the retribution and realizes deep down that **he has zero problem with that kind of violent justice** being dealt to predators.
-- **Source:** YouTube — ["Hell's Justice @PlagueDrGeneral"](https://www.youtube.com/watch?v=NeO1vToiwu8), published 2025-07-22, length **3:05**. Video built with Veo 3 (8-second clips in prison setting).
-- **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
+### 🩸 Ch. 0 — "Double Truths" — *THE BEGINNING*
 - **The saga starts here:** a **man and a woman fall out.**
 - **Theme:** betrayal and **double meanings** — the woman as a calculating deceiver who speaks in **double entendres**; *"innocent facade but a heart full of crimes,"* *"love's a game of chess she plays in the dark."*
 - **Source:** YouTube — "Double Truths - Plague Dr General," channel **Plague Conductor** (`@PlagueDrGeneral`), published 2025-07-22, length **2:59**.
 - **Lyrics:** see §4 (currently **YouTube auto-transcription — pending the artist's authoritative text**).
+
+### 🩸 Ch. 0.5 — "Hell's Justice" — *THE AWAKENING (1980 RIOT)*
+- **Theme / Story:** Depicts the brutal, fiery events of the **February 1980 New Mexico State Penitentiary Riot**. Blowtorches cutting cell doors, inmate anarchy, blazing fires, cellblock rioting, and **pedophiles caged** receiving brutal, fiery retribution ("justice served in anarchy"). There is no mistaking who is being targeted.
+- **Visuals:** Veo 3 prison setting — chaotic prison riot scenes, raging fires, dense smoke, cellblock warfare, and fiery retribution.
+- **Musical DNA:** **Pure Judas Priest energy** — sounds like a lost classic Priest track (*Painkiller* / *Screaming for Vengeance* era speed & vocal delivery).
+- **Character Arc:** The turning point where our future Plague Doctor (working as a CO at NM State Pen) witnesses the retribution and realizes deep down that **he has zero problem with that kind of violent justice** being dealt to predators.
+- **Source:** YouTube — ["Hell's Justice @PlagueDrGeneral"](https://www.youtube.com/watch?v=NeO1vToiwu8), published 2025-07-22, length **3:05**. Video built with Veo 3 (8-second clips in prison setting).
+- **Lyrics:** see §4 (authoritative lines provided by artist + reference transcript).
 
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
@@ -80,9 +82,14 @@ Doctor's blade, carving the plague, vengeance is complete.
 *(more sections pending)*
 
 ### 🎵 "Hell's Justice" (Ch. 0.5)
-> ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
-> Awaiting the artist's authoritative lyrics. Recorded here only for reference.**
+> ✅ **Authoritative lines confirmed by artist (2026-08-15):**
+>
+> *"eyeballs boil, sins wree paid"*
+> *"ashes fall where the guilty lay"*
+> *"through the smoke and screams, one truth remains"*
+> *"In Hells Justice the Fire reigns"*
 
+*(Full transcript reference — pending full authoritative text from artist)*
 *(Intro / Verse)*
 Raging at the gates, the rage ignited
 Chained fury let loose in the night
@@ -93,7 +100,7 @@ No escape from the justice they got
 *(Chorus / Core Refrain)*
 Torches force the doors, damn molten steel in the devil's hand
 Through their eyes the flames will see, justice served in anarchy!
-The bars of steel broken through, eyeballs melting, the nightmare came true
+The bars of steel broken through, eyeballs boil, sins wree paid
 Cries of evil men in pain, blood on the floors, revenge on his brain
 Mobs choke on smoke, sizzling flesh in the air
 No mercy shown, just fire in the air!
@@ -108,9 +115,10 @@ The blaze consumes, no source of light
 Hell claims their souls in the dead of night!
 
 *(Outro)*
-Ashes fall where the guilty lay
-Through smoke and screams, one truth remains:
-In Hell's Justice, the fire reigns!
+eyeballs boil, sins wree paid
+ashes fall where the guilty lay
+through the smoke and screams, one truth remains
+In Hells Justice the Fire reigns
 
 ---
 
