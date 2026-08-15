@@ -34,6 +34,12 @@
 - **Source:** YouTube — ["Hell's Justice @PlagueDrGeneral"](https://www.youtube.com/watch?v=NeO1vToiwu8), published 2025-07-22, length **3:05**. Video built with Veo 3 (8-second clips in prison setting).
 - **Lyrics:** see §4 (authoritative lines provided by artist + reference transcript).
 
+### 🩸 Ch. 0.8 — "Below The Surface" — *THE INNER TORMENT*
+- **Theme / Story:** The Doctor's internal psychological hell — "our Dr is going through shit." Coping with crushing personal loss, addiction, inner demons, and a haunted past.
+- **Character Arc:** Shows the human cost and internal spiral of the man behind the mask. *"Every line's a line I swear I'll never cross, the cost is the pain of what I lost."* Highlighting the double-edged sword of his path before/during his vigilante transformation.
+- **Source:** YouTube — ["Below The Surface. *Plague Dr General*"](https://www.youtube.com/watch?v=lOWw89RvvZ4), published 2025-07-14, length **2:24**.
+- **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
+
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
 - **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
@@ -119,6 +125,27 @@ eyeballs boil, sins wree paid
 ashes fall where the guilty lay
 through the smoke and screams, one truth remains
 In Hells Justice the Fire reigns
+
+---
+
+### 🎵 "Below The Surface" (Ch. 0.8)
+> ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
+> Awaiting the artist's authoritative lyrics. Recorded here only for reference.**
+
+Drown the pain in a flood, the flood's got a tide
+Made the fire to keep warm, now the fire's inside
+It's a double-edged sword, every hit is a scar
+Chasing that star in a runaway car
+It's a gamble every time...
+
+Every line's a line I swear I'll never cross
+The cost is the pain of what I lost
+Below the surface, the heart runs deep
+Every piece reflects a haunted past
+Falling deeper, can't find the shore
+When you start to sink more, sink more
+Below the surface, on it all, but the ghost won't sleep
+Below the surface, trying to escape the world I feel...
 
 ---
 
