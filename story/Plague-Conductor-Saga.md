@@ -52,6 +52,12 @@
 - **Audio Master:** ✅ Track fetched from repo — `video/audio/ItsAlwaysThere_Remastered.mp3` (Length: **2:38**, 192kbps stereo MP3).
 - **Lyrics:** Awaiting artist's lyrics.
 
+### 🩸 Ch. 1 — "Plague Doctor" — *THE ANTHEM & VOW (FIRST SINGLE)*
+- **Theme / Story:** The debut anthem introducing the Plague Doctor's crusade — *"For every child he battles time!"*
+- **Character Arc:** Clad in night with raven mask and raven eye, he hunts the wicked. Sworn against the vile who harm children and the vulnerable. Alchemy of death, tearing apart the damned with his instruments.
+- **Source:** YouTube — ["Plague Doctor"](https://www.youtube.com/watch?v=f7YSJVUR-rQ), published 2024-12-04, length **2:50**.
+- **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
+
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
 - **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
@@ -138,6 +144,43 @@ Death never ends,
 Feast on the scum,
 Retribution begins!
 *(Guitar bends into dissonance, outro scream fading to silence…)*
+
+### 🎵 "Plague Doctor" (Ch. 1)
+> ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
+> Awaiting the artist's authoritative lyrics. Recorded here only for reference.**
+
+Shadowed depth he takes his bound in darkness, clad in night
+Mask and raven eye, he hunts the wicked, let them die!
+
+Plague Doctor, rise from the crypt!
+With your instruments, the damned will be ripped!
+Innocent shadow, Justice will reign!
+By your hand they'll feel the pain!
+
+Their cries unheard, but he shall come with full word
+Alchemy of death, a twisted art
+No mercy shown, he'll tear apart!
+
+Plague Doctor, rise from the crypt!
+With your instruments, the damned will be ripped!
+Innocent shadow, Justice will reign!
+By your hand they'll feel the pain!
+
+Through streets of plague, he fights to cleanse the Earth
+A crusade fierce, his oath sworn
+Against the vile, the weak, the scorned!
+
+Plague Doctor, rise from the crypt!
+With your instruments, the damned will be ripped!
+Innocent shadow, Justice will reign!
+By your hand they'll feel the pain!
+
+Don't fear his shadow, fear his name!
+In the ruins, the snake is claimed!
+The Plague Doctor's song, the mournful chime —
+**FOR EVERY CHILD HE BATTLES TIME!**
+
+---
 
 ### 🎵 "Hell's Justice" (Ch. 0.5)
 > ✅ **Authoritative lines confirmed by artist (2026-08-15):**
