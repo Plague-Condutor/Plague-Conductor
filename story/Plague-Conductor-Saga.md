@@ -40,6 +40,12 @@
 - **Source:** YouTube — ["Below The Surface. *Plague Dr General*"](https://www.youtube.com/watch?v=lOWw89RvvZ4), published 2025-07-14, length **2:24**.
 - **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
 
+### 🩸 Ch. 0.9 — "Monster Under The Ground" — *SLAYING THE DEMON (SOBRIETY)*
+- **Theme / Story:** The pivotal breakthrough chapter — **"when the Dr decides to quit drinking."** He slays the monster of alcohol and addiction, grabs a shovel, cuts the demon's head off, and buries it 6 feet deep.
+- **Character Arc:** The Doctor breaks his own chains before taking on the world's filth. Sobriety and total clarity. *"Goodbye to the nights of the bottle and fight... The headstone reads: Here lies my pain. I'll rise from the ashes, never fall again."*
+- **Source:** YouTube — ["Monster Under The Ground"](https://www.youtube.com/watch?v=BhPMo_p56e4), published 2025-07-03, length **3:42**.
+- **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
+
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
 - **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
@@ -125,6 +131,41 @@ eyeballs boil, sins wree paid
 ashes fall where the guilty lay
 through the smoke and screams, one truth remains
 In Hells Justice the Fire reigns
+
+---
+
+### 🎵 "Monster Under The Ground" (Ch. 0.9)
+> ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
+> Awaiting the artist's authoritative lyrics. Recorded here only for reference.**
+
+*(Intro / Verse)*
+Cutting off the head of the beast that's been my life
+Warrior ready for the round, no mercy for the demon, put it in the ground!
+Shovel in my right, hand in my left tonight
+I slay addiction tonight, I take my breath!
+I was trapped in the fall, couldn't see the light
+A slave to the meal, the smoke, the bite...
+Chains on my mind dragging me down, voice in my head saying you're gonna drown
+But no, not today! I'll kill this demon, let the devil pay!
+
+*(Chorus)*
+I'm cutting off its head, bury it 6 ft deep!
+This monster tried to own me, but my soul's too steep!
+I clawed out the dirt, found my strength in the sound
+The demon's dead now — put it in the ground!
+
+*(Refrain)*
+The shovel is heavy, but my spirit's alive
+One scoop for the pain, two more to survive!
+This grave ain't for me, I'm breaking the chain
+I'll dance on this tombstone, free from the pain!
+
+*(Bridge & Outro)*
+Goodbye to the nights of the bottle and fight
+Goodbye to the days that I fucked up my life
+This cup is full, addiction not for me
+The thirst in my hands, I've been set free!
+The headstone reads: *"Here lies my pain. I'll rise from the ashes, never fall again!"*
 
 ---
 
