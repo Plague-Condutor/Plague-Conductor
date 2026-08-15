@@ -46,6 +46,11 @@
 - **Source:** YouTube — ["Monster Under The Ground"](https://www.youtube.com/watch?v=BhPMo_p56e4), published 2025-07-03, length **3:42**.
 - **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
 
+### 🩸 Ch. ? — "It's Always There" — *THE PERSISTENT HAUNTING / THREAT*
+- **Theme / Story:** Title: **"It's Always There"**.
+- **Character Arc:** Depicts the constant looming threat, shadow, or memory that follows the Doctor — the lingering darkness that never truly disappears.
+- **Status:** Artist uploading to Suno / pending lyrics & link.
+
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
 - **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
