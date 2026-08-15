@@ -18,10 +18,11 @@
 
 ## 2. Story Timeline (in progress)
 
-### 🩸 Ch. 0.5 — [1980 NM Penitentiary Riot Song] — *THE AWAKENING*
-- **Theme / Events:** Depicts the brutal events of the infamous **February 1980 New Mexico State Penitentiary Riot**.
-- **Character Arc:** The turning point where our future Plague Doctor (working as a CO) realizes deep down that **he has zero problem with that kind of brutal retribution** being dealt to predators and scum. The realization that some beasts don't deserve mercy.
-- **Status:** Song written by artist — awaiting title & lyrics for full logging.
+### 🩸 Ch. 0.5 — "Hell's Justice" — *THE AWAKENING (1980 RIOT)*
+- **Theme / Story:** Depicts the brutal, fiery events of the **February 1980 New Mexico State Penitentiary Riot**. Blowtorches cutting cell doors, inmate anarchy, flames, and brutal retribution on the guilty locked inside ("justice served in anarchy").
+- **Character Arc:** The turning point where our future Plague Doctor (working as a CO at NM State Pen) witnesses the retribution and realizes deep down that **he has zero problem with that kind of violent justice** being dealt to predators.
+- **Source:** YouTube — ["Hell's Justice @PlagueDrGeneral"](https://www.youtube.com/watch?v=NeO1vToiwu8), published 2025-07-22, length **3:05**. Video built with Veo 3 (8-second clips in prison setting).
+- **Lyrics:** see §4 (currently YouTube auto-transcription — pending the artist's authoritative text).
 - **The saga starts here:** a **man and a woman fall out.**
 - **Theme:** betrayal and **double meanings** — the woman as a calculating deceiver who speaks in **double entendres**; *"innocent facade but a heart full of crimes,"* *"love's a game of chess she plays in the dark."*
 - **Source:** YouTube — "Double Truths - Plague Dr General," channel **Plague Conductor** (`@PlagueDrGeneral`), published 2025-07-22, length **2:59**.
@@ -73,6 +74,41 @@ Wretches scream, feeding the feast, flesh torn, no retreat,
 Doctor's blade, carving the plague, vengeance is complete.
 
 *(more sections pending)*
+
+### 🎵 "Hell's Justice" (Ch. 0.5)
+> ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
+> Awaiting the artist's authoritative lyrics. Recorded here only for reference.**
+
+*(Intro / Verse)*
+Raging at the gates, the rage ignited
+Chained fury let loose in the night
+Riot rises, the violence grows
+We all scream for vengeance from the heart
+No escape from the justice they got
+
+*(Chorus / Core Refrain)*
+Torches force the doors, damn molten steel in the devil's hand
+Through their eyes the flames will see, justice served in anarchy!
+The bars of steel broken through, eyeballs melting, the nightmare came true
+Cries of evil men in pain, blood on the floors, revenge on his brain
+Mobs choke on smoke, sizzling flesh in the air
+No mercy shown, just fire in the air!
+Torches force the doors, damn molten steel in the devil's hand
+Through their eyes the flames will see, justice served in anarchy!
+
+*(Bridge)*
+Justice wrought in infernal design
+Guilty screams echo through the confines
+Steel as flame cleaves, a violent purge to fulfill the need
+The blaze consumes, no source of light
+Hell claims their souls in the dead of night!
+
+*(Outro)*
+Ashes fall where the guilty lay
+Through smoke and screams, one truth remains:
+In Hell's Justice, the fire reigns!
+
+---
 
 ### 🎵 "Double Truths" (Ch. 0) — hook: *"Double entendres"*
 > ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
