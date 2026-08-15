@@ -64,28 +64,30 @@
 
 ## 3. Visual Art Direction (LOCKED for the *Plague Conductor* video)
 
-- **The Plague Doctor:** a **towering skeletal death-priest**, not a clean hero. Long **rotten beaked plague mask fused to a skull**, two **burning pinprick eyes**, tattered black burial robes trailing **black smoke and embers**, rusted **sickle-blade** + lantern.
+- **The Plague Doctor (LIVING HUMAN):** **Very much a living human man** — a real flesh-and-blood former NM State Pen CO. He is **NOT a ghost, demon, or undead monster**. His **towering skeletal death-priest disguise**, rotten beaked plague mask fused to a skull helmet, burning pinprick eyes, and tattered black burial robes trailing **black smoke and embers** are his intimidating armor and vigilante identity designed to terrify predators and command absolute authority over the apocalypse.
 - **Palette:** charred black, **blood-red, ash-grey, bruised yellow-green plague-glow, ember-orange.**
 - **Texture:** gritty oil-painted nightmare, dense symbolic detail, brutal contrast (Larry Carroll / Slayer).
 - **The chained bait:** kept as **faceless shadow-silhouettes** (yoked at neck/wrist) — grim and evocative, **not graphic/gore** regarding the real-crime theme. The plague, horde, and slaughter go full nightmare.
-- **Style test:** `video/lyric_frames/s00_intro_title.png` (Shot 0 — title reveal). *Pending artist approval.*
+- **Master Storyboard:** 90 detailed scenes extracted from `Plague-Conductor-backup.zip` (`unzipped_backup/plague conductor storyboards/`).
 
-### Shot list — *Plague Conductor* (building)
-| # | Section / lyric | Description | Status |
+### 🎬 Master 90-Scene Storyboard Breakdown
+| Section | Scenes | Time | Core Visuals |
 |---|---|---|---|
-| 0 | Intro — "PLAAAGUE CONDUCTOOORRR!!!" | Title reveal: colossal skeletal Doctor, arms raised, blood sky, horde, burning village | 🎨 test generated |
-| 1 | V1 — "Darkened skies, hordes arise…" | Wide establishing: horde cresting a ridge in plague-fog, ash, distant village | ⏳ proposed |
-| 2 | V1 — "Masked deceiver, pulling strings…" | Doctor as puppeteer, marionette strings into the fog | ⏳ proposed |
-| 3 | V1 — "Baiting filth into the swarm…" | Faceless chained bait line marched toward the swarm | ⏳ proposed |
-| 4 | V1 — "Infected fate, no escape…" | Swarm closes over the bait in green mist | ⏳ proposed |
-| 5 | V1 — "Wretches scream, feeding the feast…" | The feast — shadowy/suggestive, Doctor watching from above | ⏳ proposed |
-| 6 | V1 — "Doctor's blade… vengeance is complete." | Hero closer: sickle raised, horde laid low, village safe behind | ⏳ proposed |
+| **Intro** | Scenes 1–9 | 0:00–0:15 | Fog, medieval ruins, village gates, Doctor emergence with baton, horde swells to horizon |
+| **Verse 1** | Scenes 10–29 | 0:15–0:45 | Dungeon interior, prisoner selection, chains falling, march to wasteland bait positions, first zombie contact |
+| **Chorus 1** | Scenes 30–37 | 0:45–1:00 | Baton conducting close-up, glowing eyes, coordinated zombie wave, village ramparts safe |
+| **Verse 2** | Scenes 38–51 | 1:00–1:35 | Prisoner final stands, zombie close-ups, glowing chains of fate, orchestrating carnage |
+| **Bridge** | Scenes 52–69 | 1:35–2:15 | Tremolo solo, lightning array, wild conducting, fires, guttural "RISE! FEAST!" chants |
+| **Chorus 2** | Scenes 70–76 | 2:15–2:30 | Horde redirected away from villages, sacrifice complete, storm clearing |
+| **Outro** | Scenes 77–90 | 2:30–2:55 | Doctor surveys battlefield, village lights safe, new horde on far horizon, cycle continues, title fade |
 
 ---
 
 ## 4. Lyrics Vault *(VERBATIM — never altered)*
 
 ### 🎵 Plague Conductor
+> ✅ **Authoritative Master Lyrics (Verbatim — from artist's `plague conductor lyrics.txt`)**
+
 **[Intro]**
 PLAAAAGUE CONDUCTOOORRR!!!
 
@@ -97,7 +99,45 @@ Infected fate, no escape—consumed by blackened souls.
 Wretches scream, feeding the feast, flesh torn, no retreat,
 Doctor's blade, carving the plague, vengeance is complete.
 
-*(more sections pending)*
+**[Chorus]**
+Rotten flesh!
+Living sin!
+Plague conductor commands within!
+Hell unleashed!
+Carnage thrives!
+Through the dead, the guilty die!
+
+**[Verse 2]**
+Ripping veins, lifeblood drains, symphonies of pain,
+Limbs torn asunder, screams of prey forever reign.
+Skinned alive, eyes collide, terror in their stare,
+Dragged to pits of rotting filth—judgment's in the air.
+Masked by night, the maestro leads, strings of chaos pull,
+Puppet masters of the damned, the feast forever full.
+
+**[Chorus]**
+Rotten flesh!
+Living sin!
+Plague conductor commands within!
+Hell unleashed!
+Carnage thrives!
+Through the dead, the guilty die!
+
+**[Bridge]**
+*(Guitar solo: Chaotic, tremolo-picked madness, shifting from minor to chromatic scales)*
+*(Underneath: Chanting growls, like a demonic choir)*
+*(Guttural chant (layered))*
+RISE! FEAST! Feed feast feast
+RISE! FEAST! Feed feast fest
+RISE! FEAST! Feeeeeaaasssttt
+
+**[Outro]**
+*(Riffs slow, drums build into a crescendo, descending into chaos)*
+The masked plague ascends,
+Death never ends,
+Feast on the scum,
+Retribution begins!
+*(Guitar bends into dissonance, outro scream fading to silence…)*
 
 ### 🎵 "Hell's Justice" (Ch. 0.5)
 > ✅ **Authoritative lines confirmed by artist (2026-08-15):**
