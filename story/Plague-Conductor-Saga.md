@@ -26,7 +26,8 @@
 
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
-- **The Premise & Motivation:** Working the cellblocks, he saw the worst of humanity up close every single shift — pedophiles, rapists, and predators kept fed and protected behind bars while innocent women and children were left vulnerable outside. Society puts down broken dogs, yet protects human monsters.
+- **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
+- **The Premise & Motivation:** Working those same cellblocks, he saw the worst of humanity up close every shift — pedophiles, rapists, and predators gaming the system while innocent women and children were left vulnerable outside. Society puts down broken dogs, yet protects human monsters.
 - **The Collapse & The Bait:** When the plague hits / society collapses, his CO role gives him the keys, the chains, and direct access to the prison blocks. He turns the prison into his supply line — chaining the predators together as human bait to lure zombie hordes away from innocent villages. Dark, ruthless poetic justice.
 - **Lyrics captured so far:** Intro + Verse 1 (see §4).
 - **Visual production:** in progress — Slayer-mode art direction (see §3).
