@@ -64,6 +64,12 @@
 - **Audio Master:** ✅ Track fetched from repo — `video/audio/BackWhereWeBelong.mp3` (Length: **2:59**, 192kbps stereo MP3).
 - **Lyrics:** Awaiting artist's lyrics.
 
+### 🩸 Ch. 2.5 — "Buyers Remorse" — *THE HEARTBREAKING REALIZATION*
+- **Theme / Story:** Inspired by a real conversation around Dec 23rd (his birthday) & Christmas in Boise — taking the bus back to Seattle alone on his birthday. The crushing realization that getting sober and doing the hard work didn't solve the rejection.
+- **Character Arc:** Slaying the bottle ("Monster Under The Ground") revealed the brutal truth: *"I quit the bottle, now I see it clear... It wasn't the drunk you hated — it was my core. Sobriety just opened up the locked door."* Facing raw, unfiltered reality and rejection.
+- **Vocal Style:** Dax intensity, layered vocals, spoken rap style.
+- **Lyrics:** see §4 (authoritative verbatim text confirmed by artist).
+
 ### 🩸 Ch. ? — "Plague Conductor"
 - **The vigilante saga & origin:** In daylight life, the Plague Doctor was a **Correctional Officer (CO) at the New Mexico State Penitentiary**.
 - **Historical Anchor (True Story):** Grounded in the brutal history of NM State Pen — site of the infamous **February 1980 prison riot**, one of the most violent in American history, where inmate vigilante violence targeted cellblocks housing predators and informants. The Doctor's backstory inherits that dark, unforgiving blood-soaked legacy.
@@ -150,6 +156,66 @@ Death never ends,
 Feast on the scum,
 Retribution begins!
 *(Guitar bends into dissonance, outro scream fading to silence…)*
+
+### 🎵 "Buyers Remorse" (Ch. 2.5)
+> ✅ **Authoritative Master Lyrics (Verbatim — provided by artist, 2026-08-15)**
+
+**[Verse 1]**  
+Yeah, kinda shitty round here these days,  
+Staring at the walls like they gon’ change.  
+But hey—at least I’m not drinking, right?  
+Still sober but I’m losing fights every night.  
+Gave it up, thought I’d get my life back,  
+Now I just sit in the silence and playback.  
+You said, "Well, there’s that..."—like it’s a win,  
+But the prize is a cage I’m locked inside in.  
+
+**[Pre-Chorus]**  
+I quit the bottle, now I see it clear,  
+The problem was never just the beer...  
+You said it for years: "If he’d just quit..."  
+But the truth is — you never meant me, just it.  
+
+**[Chorus]** *(Dax intensity, layered vocals)*  
+Now I’m stuck here, with the right answer to the wrong question,  
+Clean soul, but I’m haunted by rejection.  
+It wasn’t the drunk you hated — it was my core,  
+Sobriety just opened up the locked door.  
+You ain’t mad I was broken, you just hate the source,  
+Now I’m the product of your buyer’s remorse.  
+
+**[Verse 2]**  
+Everybody cheered when I threw it away,  
+But now I’m just sober and alone every day.  
+I played the part, cleaned the slate,  
+But turns out, clean don’t equal fate.  
+All those nights you cried and begged,  
+"If he’d just stop" — well, I did, what’s next?  
+Now I’m here with the truth in my hands,  
+But no one wants the man behind the damned.  
+
+**[Bridge]** *(spoken rap style)*  
+So what was the lie?  
+Was it me? Was it time?  
+Was it easier to blame the bottle than admit I didn’t shine?  
+Now I’m here, raw, real, unfiltered...  
+And that’s the version they never pictured.  
+
+**[Chorus]**  
+Now I’m stuck here, with the right answer to the wrong question,  
+Clean soul, but I’m haunted by rejection.  
+It wasn’t the drunk you hated — it was my core,  
+Sobriety just opened up the locked door.  
+You ain’t mad I was broken, you just hate the source,  
+Now I’m the product of your buyer’s remorse.  
+
+**[Outro]** *(soft, fading voice)*  
+Funny how they say "just get better"...  
+But never ask if you’re wanted better.  
+No bottle. No lies. No force.  
+Still, I'm nothing more than your... buyer’s remorse.
+
+---
 
 ### 🎵 "Plague Doctor" (Ch. 1)
 > ⚠️ **AUTO-TRANSCRIBED BY YOUTUBE — likely contains errors. Do not treat as final.
