@@ -49,7 +49,7 @@
 ### 🩸 Ch. 0.85 — "It's Always There" — *THE INNER SABOTEUR*
 - **Theme / Story:** The mental demon and inner saboteur that never leaves — always whispering in your ear that *"you'll never do anything right."*
 - **Character Arc:** The psychological battle with self-doubt, failure, and mental sabotage before total breaking point/clarity. The lingering voice that haunts the Doctor even as he tries to fix his life.
-- **Source:** Audio file shared by artist (Google Drive ID: `1-jcXLqK4LUO8k2LfDpxq3oWRcO3qD9-e`).
+- **Audio Master:** ✅ Track fetched from repo — `video/audio/ItsAlwaysThere_Remastered.mp3` (Length: **2:38**, 192kbps stereo MP3).
 - **Lyrics:** Awaiting artist's lyrics.
 
 ### 🩸 Ch. ? — "Plague Conductor"
